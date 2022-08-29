@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<img href="https://svgur.com/i/mC1.svg" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149734535&unique={true|1|on|yes})

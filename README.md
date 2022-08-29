@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<img href="./github-user-contribution.svg" alt="Snake animation" />
+<img href="https://svgur.com/i/mC1.svg" alt="Snake animation" />
 
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149734535&unique={true|1|on|yes})

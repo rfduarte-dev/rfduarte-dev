@@ -38,6 +38,6 @@
 <img href="https://raw.githubusercontent.com/rfduarte-dev/rfduarte-dev/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149734535&count={5})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149734535&unique={true|1|on|yes})
 
 ###
